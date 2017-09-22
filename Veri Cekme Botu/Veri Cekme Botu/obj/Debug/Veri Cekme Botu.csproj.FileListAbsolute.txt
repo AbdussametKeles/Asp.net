@@ -1,0 +1,33 @@
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\ApplicationInsights.config
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\csc.exe
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\vbc.exe
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\VBCSCompiler.exe
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Veri Cekme Botu.dll.config
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Veri Cekme Botu.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Veri Cekme Botu.pdb
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.Web.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.Web.xml
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\obj\Debug\Veri Cekme Botu.csprojResolveAssemblyReference.cache
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\obj\Debug\Veri Cekme Botu.dll
+C:\Users\SAMET\Desktop\WEB Uygulamalar\Veri Cekme Botu\Veri Cekme Botu\obj\Debug\Veri Cekme Botu.pdb
