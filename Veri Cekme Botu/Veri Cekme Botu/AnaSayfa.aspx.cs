@@ -36,7 +36,7 @@ namespace Veri_Cekme_Botu
             int haberBitis = gelenBilgi.Substring(haberBaslangic).IndexOf("<i class=\"clear_0\">");
 
             lblVeriler.Text = gelenBilgi.Substring(haberBaslangic, haberBitis);
-
+            string git = "github deneme";
             string deneme = "github deneme";
         }
     }
